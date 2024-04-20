@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riz-7595" alt="riz-7595" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rizwan_k_75" target="blank"><img src="https://img.shields.io/twitter/follow/rizwan_k_75?logo=twitter&style=for-the-badge" alt="rizwan_k_75" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Riz-7595?tab=repositories](https://github.com/Riz-7595?tab=repositories)
