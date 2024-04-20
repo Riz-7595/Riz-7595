@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizwan Khalid</h1>
 <h3 align="center">I'm a Mobile App Developer and a Student from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riz-7595" alt="riz-7595" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riz-7595&label=Profile%20views&color=0e75b6&style=flat" alt="riz-7595" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
