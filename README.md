@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riz-7595&label=Profile%20views&color=0e75b6&style=flat" alt="riz-7595" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter / Dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Riz-7595?tab=repositories](https://github.com/Riz-7595?tab=repositories)
 
-- 💬 Ask me about **C++, JS, Dart**
+- 💬 Ask me about **Dart, C++, Python**
 
 - 📫 How to reach me **rizwankhalid7595@gmail.com**
 
