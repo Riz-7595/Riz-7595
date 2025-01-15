@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rizwan Khalid</h1>
-<h3 align="center">I'm a Mobile App Developer and a Student from Pakistan</h3>
+<h3 align="center">I'm an aspiring Web Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riz-7595&label=Profile%20views&color=0e75b6&style=flat" alt="riz-7595" /> </p>
 
-- 🌱 I’m currently learning **Flutter / Dart**
+- 🌱 I’m currently learning **ReactJS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Riz-7595?tab=repositories](https://github.com/Riz-7595?tab=repositories)
 
-- 💬 Ask me about **Dart, C++, Python**
+- 💬 Ask me about **C++, Dart, Python**
 
 - 📫 How to reach me **rizwankhalid7595@gmail.com**
 
